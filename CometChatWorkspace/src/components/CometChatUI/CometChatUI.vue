@@ -1,5 +1,7 @@
 <template>
   <div :style="styles.root" class="cometchat__unified">
+    <!-- test comment -->
+    <div>test comment </div>
     <div :style="styles.sidebar" class="unified__sidebar">
       <comet-chat-nav-bar
         :tab="tab"
